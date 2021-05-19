@@ -1,3 +1,3 @@
 # FoodforU
 
-# Criação de aplicativo para curso
+Criação de aplicativo para curso.
